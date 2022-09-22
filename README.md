@@ -7,9 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh0st3e&theme=solarized_dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh0st3e)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h1 align="center">Some stuff i know</h1>
 
@@ -39,4 +37,4 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
