@@ -7,6 +7,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh0st3e&theme=solarized_dark)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://i.gifer.com/origin/4c/4c7dc3d8a6dd24c8169b85d7e0fff5fd_w200.gif" height="100"/>
 
 <h1 align="center">Some stuff i know</h1>
 
@@ -36,7 +37,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-<img src="https://i.gifer.com/origin/4c/4c7dc3d8a6dd24c8169b85d7e0fff5fd_w200.gif" height="32"/>
+
 
 
 
