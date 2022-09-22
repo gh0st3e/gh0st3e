@@ -1,5 +1,7 @@
 
-<img src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" z-index=0 height="100"/>
+
+<body style="backgroundImage=url("https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif")">
+  
 
 
 <h1 align="center">Hi there, I'm <a href="https://vk.com/sined_axmed" target="_blank">Denis</a> 
@@ -42,6 +44,6 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 
-
+</body>
 
 
