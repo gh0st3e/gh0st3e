@@ -3,4 +3,5 @@
 <h3 align="center">Computer science student from BELARUS 🇷🇺</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Future+Go+developer+i+hope)](https://git.io/typing-svg)
