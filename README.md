@@ -14,7 +14,7 @@
 
 <h1 aligh="center">
   <img src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" height="400"/>
-  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh0st3e&theme=solarized_dark)
 </h1>
 
 
