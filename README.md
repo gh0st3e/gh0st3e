@@ -9,6 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0st3e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh0st3e)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=gh0st3e)
+
 <h1 align="center">Some stuff i know</h1>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
