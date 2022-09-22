@@ -16,7 +16,7 @@
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh0st3e&theme=solarized_dark)
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+  <img src="https://i.gifer.com/7reG.gif">
 
   </h1>
 
