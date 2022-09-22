@@ -1,3 +1,7 @@
+
+<img src="https://i.gifer.com/origin/e2/e2aec645e3f805bfeef5468bc9bf3a34.gif" z-index=0 height="100"/>
+
+
 <h1 align="center">Hi there, I'm <a href="https://vk.com/sined_axmed" target="_blank">Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from BELARUS</h3>
