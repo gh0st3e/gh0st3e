@@ -36,6 +36,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-[![image](https://user-images.githubusercontent.com/89907255/191862452-61bd53c2-8e14-478e-9814-f53552ac83ee.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2Fgifs%2F%25D0%25BF%25D0%25B8%25D0%25BA%25D1%2581%25D0%25B5%25D0%25BB%25D1%258C&psig=AOvVaw18z8q6o0FzdDWCwV6jJMiW&ust=1663972064263000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiDypK5qfoCFQAAAAAdAAAAABAJ)
+<img src="https://i.gifer.com/origin/4c/4c7dc3d8a6dd24c8169b85d7e0fff5fd_w200.gif" height="32"/>
+
 
 
