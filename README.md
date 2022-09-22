@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi there, I'm <a href="https://vk.com/sined_axmed" target="_blank">Denis</a> 
-<img src="https://i.gifer.com/7V6.mp4" height="50"/> </h1>
+<img src="https://i.gifer.com/origin/36/36f5464529bee4b3761770302bc47628_w200.gif" height="50"/> </h1>
 
 
 
