@@ -39,11 +39,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-  uses: Platane/snk@v2
+- uses: Platane/snk@v2
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: ${{ gh0st3e }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
