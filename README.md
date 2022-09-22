@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Future+Go+developer+i+hope)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh0st3e&theme=solarized_dark)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
