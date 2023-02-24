@@ -7,8 +7,6 @@
   <img src="https://i.gifer.com/origin/4c/4c7dc3d8a6dd24c8169b85d7e0fff5fd_w200.gif" alt="work" height="200"/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh0st3e&show_icons=true&theme=radical)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gh0st3e&theme=dark&background=000000)](https://git.io/streak-stats)
-  
 </div>
 
 
